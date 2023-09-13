@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is example about git-test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viet",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/nhviet17112000003/git-test.git)"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
